@@ -11,3 +11,10 @@ The main framework used in building the DogCupid website is Bootstrap and its co
 https://tharunsai1.github.io/Dogcupid/
 
 # Screenshot
+![](images/1.png)
+
+![](images/2.png)
+
+![](images/3.png)
+
+![](images/4.png)
